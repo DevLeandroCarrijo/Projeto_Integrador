@@ -15,7 +15,9 @@ Este projeto é uma aplicação JavaFX que simula a leitura de sensores de tempe
   - **Umidade**: exibe valores em porcentagem.
   - **Luminosidade**: exibe valores em lúmens (lx).
 - Atualização dos valores em tempo real (a cada 1 segundo).
-- Interface gráfica com estilo de **display digital** (fundo preto e texto verde).
+- Interface gráfica com estilo de **display digital** (fundo preto e texto verde), exibição dos valores atuais e apresentação das médias acumuladas.
+- Os displays mudam para a cor vermelha caso os valores ultrapassem limites pré-definidos (ex.: temperatura acima de 33 ºC, umidade abaixo de 35%, luminosidade acima de 900 lx).
+- **Histórico de Leituras**: Janela dedicada que exibe, em formato de tabela, o histórico completo das leituras com timestamp. Acesso via botão na interface principal.
 
 ## 🛠️ Tecnologias Utilizadas
 - **Java 11 ou superior** (compatível com JavaFX 17).
