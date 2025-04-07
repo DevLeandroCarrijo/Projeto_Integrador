@@ -1,6 +1,6 @@
 # Desenvolvedores
 - Leandro Carrijo
-- Gustavo Arantes
+- Gustavo Oliveira Arantes
 - Luciana Freitas
 - Beatriz de Freitas
 - Maria Eduarda Sousa
